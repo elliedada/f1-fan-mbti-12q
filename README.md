@@ -1,1 +1,1 @@
-# F1 Fan MBTI Full Version
+# F1 Fan MBTI Final Implementation
